@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"개발 블로그 시작","categories":"블로그"},"fields":{"slug":"/blog-introduction/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"SOLID 원칙","categories":"JAVA DESIGN_PATTERN"},"fields":{"slug":"/SOLID_원칙/"}}},{"node":{"frontmatter":{"title":"개발 블로그 시작","categories":"블로그"},"fields":{"slug":"/개발_블로그_시작/"}}}]}}}
