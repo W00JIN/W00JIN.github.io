@@ -3,7 +3,7 @@ emoji: 🦖
 title: SOLID 원칙
 date: '2022-04-15 00:28:00'
 author: 우진
-tags: blog
+tags: 자바 디자인패턴
 categories: JAVA DESIGN_PATTERN
 ---
 

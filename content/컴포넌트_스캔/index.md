@@ -3,7 +3,7 @@ emoji: 🦖
 title: Spring 컴포넌트 스캔
 date: '2022-04-16 00:10:00'
 author: 우진
-tags: blog
+tags: 스프링
 categories: Spring
 ---
 
