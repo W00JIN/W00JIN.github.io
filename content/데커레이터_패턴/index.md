@@ -1,6 +1,6 @@
 ---
 emoji: 🦖
-title: 데커레이터 페턴 (Decorator Pattern)
+title: 데커레이터 패턴 (Decorator Pattern)
 date: '2022-04-17 15:20:00'
 author: 우진
 tags: 디자인패턴
